@@ -51,4 +51,5 @@ Follow the steps below to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Amazon.Java.git
+   git clone https://github.com/Raghad-Alahmadi/Amazon.Java
+   
